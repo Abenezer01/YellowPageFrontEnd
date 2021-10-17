@@ -12,7 +12,7 @@ const axiosIns = axios.create({
   // ================================
 
   // baseURL: 'http://localhost:8000',
-  baseURL: 'http://192.168.0.24:3000',
+  baseURL: 'https://app-1ad2453f-8d62-42dc-a256-907c9681b7eb.cleverapps.io',
   // 'http://192.168.1.121:8000',
 
   // timeout: 1000,
