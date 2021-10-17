@@ -14,9 +14,7 @@
               class="d-inline-block mr-1"
             />
 
-            <b-button variant="primary" :to="{ name: 'add-student' }">
-              <span class="text-nowrap">Add Student</span>
-            </b-button>
+           
           </div>
         </b-form-group>
       </div>
